@@ -1,0 +1,80 @@
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+E:\___ukol_zpr\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+C:\Tomáš\FandaMidnight\MůjProjekt\MidnightCommander\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+Z:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\3.Ročník\PGR\Úkoly\Midnight_commander\Konečná\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.pdb
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.exe
+Z:\progrmování\04_midnight_comander\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.pdb
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.pdb
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.exe
+D:\Stejsky\Matěj\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\ZykaMatej\progrmování\04_midnight_comander\MidnightCommander_Spraveno\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csprojAssemblyReference.cache
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\3..ročník - PRG\progrmování\04_midnight_comander\MidnightCommander_Final\MidnightCommander___\MidnightCommander\obj\Debug\MidnightCommander.pdb
