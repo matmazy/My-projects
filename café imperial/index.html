@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rezervace</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@800&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="form-container">
+    <header>
+        <img src="img/logo.png" alt="Caffe logo">
+    </header>
+    <form action="">
+
+        <h1>On-line rezervace</h1>
+
+        <p>
+            Níže zadejte své údaje a my pro Vás zajistíme rezervaci.
+        </p>
+
+        <section class="fields">
+
+            <label id="name">
+                <input src="img/icons/face.png" type="text" placeholder="Vaše jméno"
+                       minlength="3" required
+                       autocomplete="chrome-off">
+                <span class="err">Jméno musí mít alespoň 4 znaky</span>
+            </label>
+            <label id="email">
+                <input type="email" placeholder="Email"
+                       autocomplete="chrome-off">
+                <span class="err">Vyplňte správně email</span>
+            </label>
+            <label id="phone">
+                <input type="text" placeholder="Telefon"
+                       pattern="\d{9}"
+                       autocomplete="chrome-off">
+                <span class="err">Vyplňte správně telefon</span>
+            </label>
+
+
+            <label id="date">
+                <input type="date" placeholder="Datum" required>
+            </label>
+            <label id="time">
+                <input type="time" placeholder="Čas" required>
+            </label>
+
+
+        </section>
+
+        <section class="submit">
+            <button>Odeslat rezervaci</button>
+        </section>
+    </form>
+</div>
+
+</body>
+</html>

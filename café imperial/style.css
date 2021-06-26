@@ -1,0 +1,196 @@
+/*/**
+form pruhledne pozadi: #ffffffdd
+error barva: orangered
+button pozadi tmave: #aa6105
+button pozadi svetle: #ada484
+ */
+
+html {
+    height: 100%;   /* roztahne body na vysku okna */
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;      /* vypina vychozi margin body */
+    height: 100%;   /* roztahne body na vysku okna */
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    background-image: url("img/fbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+}
+
+form{
+    border-radius: 10px 0 10px;
+
+}
+
+form{
+    padding: 20px 300px;
+}
+form input {
+    /* nastaveni sirky inputu na 100% rodice, nefunguje tady display: block */
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form input::-webkit-inner-spin-button,
+form input::-webkit-calendar-picker-indicator {
+    /* vypina date a time ikonky v chromu */
+    display: none;
+    -webkit-appearance: none;
+}
+
+.form-container {
+    background: #ffffffdd;
+    max-width: 1240px;
+    margin: 6rem 6rem;
+    padding-bottom: 5rem;
+    border-radius: 0 0 20px 20px;
+    border: thin #aa6105;
+    border-top: none;
+
+}
+
+form h1 {
+    text-transform: uppercase;
+    font-family: 'Assistant', sans-serif;
+}
+
+form section.submit {
+    text-align: center;
+}
+
+form section.submit button {
+    outline: none;      /*  maze ramecek pri kliknuti */
+    border: none;
+    background-color: #ada484;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+form:valid section.submit button {
+    background-color: #aa6105;
+    cursor: pointer;
+}
+
+form {
+    padding: 0 200px;
+}
+
+form h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+form p {
+    font-size: 1.5rem;
+}
+
+form input {
+    line-height: 24px;  /* nastaveni vysky radku inputu */
+    height: 30px;       /* nastaveni vysky inputu */
+
+    outline: none;      /*  maze ramecek pri kliknuti */
+    box-shadow:none;    /*  vypina error ramecek firefoxu pokud neni pole validni */
+
+    position: relative;
+    vertical-align: top;
+
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #aa6105;
+    padding-left: 2rem;
+}
+
+form label::before {
+    content: "";
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 50%;
+    transform: translateY(-50%) translateX(20%);
+    width: 20px;
+    height: 20px;
+}
+
+form span {
+    position: absolute;
+    display: none;
+    padding-top: 0.5rem;
+    font-size: 14px;
+}
+
+form label {
+    position: relative;
+    width: 200px;
+    margin: 1rem 1rem 3rem;
+    vertical-align: top;
+}
+
+form span.err {
+    color: orangered;
+}
+
+form input:invalid:not(:placeholder-shown) + span.err {
+    display: block;
+}
+
+form label {
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+form .button {
+    text-align: center;
+}
+
+form button {
+    width: 160px;
+    height: 36px;
+    font-weight: bold;
+}
+
+/*form:valid button {
+    border: 1px solid #20ff20;
+    background: #20ff2033;
+    box-shadow: 0 0 4px #20ff20;
+}
+
+form:invalid button {
+    border: 1px solid #333;
+}*/
+
+.fields {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+form label:first-of-type::before {
+    background-image: url("img/icons/face.png");
+}
+form label:nth-of-type(2)::before {
+    background-image: url("img/icons/email.png");
+}
+form label:nth-of-type(3)::before {
+    background-image: url("img/icons/phone.png");
+}
+form label:nth-of-type(4)::before {
+    background-image: url("img/icons/date.png");
+}
+form label:last-of-type::before {
+    background-image: url("img/icons/time.png");
+}
